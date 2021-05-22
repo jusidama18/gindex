@@ -18,3 +18,7 @@ Any Issues / Help Regarding Setup, Contact Through the telegram Group
 
 #### Deploy to Heroku Directly:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ftks18%2Fgindex-backend%2Ftree%2Fmaster)
+
+##### OR:
+
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
